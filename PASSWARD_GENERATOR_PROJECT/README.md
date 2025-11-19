@@ -12,3 +12,12 @@ This project generates random and secure passwords based on user-defined length.
 2. Open this folder in VS Code
 3. Run:
 
+
+## Technologies Used
+- Python
+- Tkinter (GUI Library)
+- Random module
+
+## Author
+Akhilesh Panwar  
+Codesoft Python Intern

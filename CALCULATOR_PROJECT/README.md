@@ -15,3 +15,12 @@ This is a simple GUI Calculator created using Python and Tkinter.
 2. Open the folder in VS Code
 3. Run the command:
 
+
+## Technologies Used
+- Python
+- Tkinter (GUI Library)
+- Random module
+
+## Author
+Akhilesh Panwar  
+Codesoft Python Intern
